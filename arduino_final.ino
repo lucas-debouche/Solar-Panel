@@ -32,8 +32,8 @@ int i;
 int buzzer_stop = 1;
 
 
-const char* ssid = "Iphone de lucas";
-const char* password = "delacoenfin";
+const char* ssid = //Your SSID;
+const char* password = //Your Password;
 
 const char* mqtt_server = "mqtt.ci-ciad.utbm.fr";
 
